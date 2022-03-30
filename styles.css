@@ -181,10 +181,6 @@ nav {
 
 .about-me__picture {
     width: 100%;
-
-    /*Improving My Own Picture*/
-    transform: scale(1.5)
-    padding-top;
 }
 
 .about-me__info--title {
@@ -415,8 +411,8 @@ footer {
 }
 
 .footer__logo--img {
-    width: 70px;
-    height: 70px;
+    font-size: 108px;
+    color: #f09d51;
 }
 
 .footer__social--link,
